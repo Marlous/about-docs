@@ -1,6 +1,6 @@
 # About docs
 ## Introduction - 介绍
-My Wiki.From my blog.
+My Wiki. From my blog.
 
 - 《README 通用模板》
 - 《Linux 常用命令大全》
