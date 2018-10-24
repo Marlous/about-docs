@@ -10,3 +10,5 @@ My Wiki. From my blog.
 - 《HEXO 博客部署问题与迁移小结》
 - 《Git 工作流》
 - 《Docker 入门学习笔记》
+- 《SVN 及 Git、SVN 协作学习笔记》
+- 《工作环境（Linux）初始化》
