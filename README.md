@@ -12,3 +12,4 @@ My Wiki. From my blog.
 - 《Docker 入门学习笔记》
 - 《SVN 及 Git、SVN 协作学习笔记》
 - 《工作环境（Linux）初始化》
+- 《Shell 编程学习笔记》
