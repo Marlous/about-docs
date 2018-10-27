@@ -13,3 +13,4 @@ My Wiki. From my blog.
 - 《SVN 及 Git、SVN 协作学习笔记》
 - 《工作环境（Linux）初始化》
 - 《Shell 编程学习笔记》
+- 《多操作系统安装与引导原理（Windows、Deepin）》
