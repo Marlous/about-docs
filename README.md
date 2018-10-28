@@ -14,3 +14,4 @@ My Wiki. From my blog.
 - 《工作环境（Linux）初始化》
 - 《Shell 编程学习笔记》
 - 《多操作系统安装与引导原理（Windows、Deepin）》
+- 《三个操作系统安装（Win 10、Deepin、Kali）》
