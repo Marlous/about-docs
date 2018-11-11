@@ -15,3 +15,4 @@ My Wiki. From my blog.
 - 《Shell 编程学习笔记》
 - 《多操作系统安装与引导原理（Windows、Deepin）》
 - 《三个操作系统安装（Win 10、Deepin、Kali）》
+- 《利用 DDNS、内网穿透远程访问局域网主机》
