@@ -6,3 +6,4 @@ My Wiki. From my blog.
 - 技术类
 - 考研计算机专业课
 - 其它
+- 收藏
